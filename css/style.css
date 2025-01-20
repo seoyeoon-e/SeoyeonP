@@ -132,7 +132,7 @@ header>.container>nav>.gnb>li:hover>a,header>.container>nav>.gnb>li>a:focus,head
 #design>.container>ul>li>.graphic>li:nth-child(2){width:300px; height:260px; margin-right:10px; line-height:260px; background-image:url(../images/design2_02.png);}
 #design>.container>ul>li>.graphic>li:nth-child(3){float:right; width:370px; height:530px; line-height:530px; background-image:url(../images/design2_05.png);}
 #design>.container>ul>li>.graphic>li:nth-child(4){width:300px; height:260px; margin:10px 10px 0 0; line-height:260px; background-image:url(../images/design2_03.png);}
-#design>.container>ul>li>.graphic>li:nth-child(5){width:300px; height:260px; margin:10px 10px 0 0; line-height:260px; background-image:url(../images/design2_04.png);}
+#design>.container>ul>li>.graphic>li:nth-child(5){width:300px; height:260px; margin:10px 10px 0 0; line-height:260px; background-image:url(../images/design2_004.png);}
 
 #design>.container>ul>li>.gallery>li>a{display:block; height:100%; text-indent:-9999px;}
 #design>.container>ul>li>.gallery>li:hover>a,#design>.container>ul>li>.gallery>li>a:focus{text-indent:0; color:#fff; background-color:rgba(0,0,0,0.5);}
